@@ -1,0 +1,4 @@
+Type the following two lines into the file:
+
+streamlit
+pandas
